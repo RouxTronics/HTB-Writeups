@@ -2,7 +2,7 @@
 
 # HTB-Labs
 - [Machines](./HTB-Labs/Machines/Machines.md)
-- [Sherlocks](./HTB-LABS/Sherlocks/Sherlocks.md)
+- [Sherlocks](./HTB-Labs/Sherlocks/Sherlocks.md)
 
 # Resources
 
